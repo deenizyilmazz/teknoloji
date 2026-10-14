@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teknoloji Dünyası</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #f4f6f9; color: #333; margin: 0; padding: 0; }
+        header { background: #0f172a; color: white; text-align: center; padding: 40px 20px; }
+        header h1 { margin: 0; font-size: 28px; }
+        header p { color: #94a3b8; font-size: 16px; margin-top: 10px; }
+        .container { max-width: 800px; margin: 20px auto; padding: 0 15px; }
+        .card { background: white; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .card h2 { color: #0f172a; font-size: 20px; margin-top: 0; }
+        .card p { line-height: 1.6; color: #475569; }
+        footer { text-align: center; padding: 20px; color: #94a3b8; font-size: 14px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Teknoloji Dünyası</h1>
+        <p>En güncel teknoloji haberleri, incelemeler ve ipuçları</p>
+    </header>
+    <div class="container">
+        <div class="card">
+            <h2>Hoş Geldiniz!</h2>
+            <p>Bu site tamamen ücretsiz olarak telefondan hazırlanmıştır. Yakında en yeni yapay zeka trendleri, mobil dünyadaki yenilikler ve teknolojik ipuçları burada yer alacak.</p>
+        </div>
+        <div class="card">
+            <h2>Geleceğin Teknolojileri</h2>
+            <p>Yapay zeka, akıllı telefonlar ve yeni nesil yazılımlar hayatımızı nasıl değiştirecek? Takipte kalın!</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2026 Teknoloji Dünyası - Tüm Hakları Saklıdır.</p>
+    </footer>
+</body>
+</html>
